@@ -1,0 +1,7 @@
+# Conceptos:
+    * Datos tabulares = Datos en dos dimensiones.\n",
+    * Líneas = Ejemplos\n",
+    * Columna = Feauture. Éstas son importantes porque nos van a ayudar a predecir cosas gracias a los modelos que usemos de Machine Learning.\n",
+    * Cantidad de columnas = Dimensión de los datos\n",
+    * Output de un algoritmo de Machine Learning (ML) = Modelo\n",
+    * Variable objetivo = Target"
